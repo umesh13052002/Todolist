@@ -1,0 +1,11 @@
+.main_container {
+  margin-top: 5vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.todolist {
+  width: 100%;
+}
